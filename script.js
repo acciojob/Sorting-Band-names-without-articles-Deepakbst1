@@ -1,4 +1,3 @@
-//your code here
 const bandnames = ['The Beatles', 'Aerosmith', 'The Rolling Stones', 'Anthrax', 'The Who'];
 
 function strip(bandname){
